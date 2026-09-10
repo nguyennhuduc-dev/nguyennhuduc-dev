@@ -5,6 +5,7 @@
 
 ### Future Software Developer • Python • C++ • Game Developer
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=00BFFF&center=true&width=700&lines=Welcome+to+my+GitHub!;Python+Developer;C%2B%2B+Learner;Future+Software+Developer;Game+Developer"/>
 ---
 
 # 👋 Welcome to my GitHub!
@@ -36,4 +37,17 @@ Become a Software Developer and Game Developer.
 
 ---
 
+## 💻 Languages and Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,bootstrap,git,github,vscode,mysql"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=nguyennhuduc-dev&show_icons=true&theme=tokyonight)
+
+---
 ⭐ Thanks for visiting my profile.
