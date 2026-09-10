@@ -1,3 +1,6 @@
+<p align="center">
+<img src="images/banners.png" width="100%">
+</p>
 ## Hi there 👋
 
 <!--
