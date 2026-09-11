@@ -37,13 +37,5 @@ Become a Software Developer and Game Developer.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyennhuduc-dev&show_icons=true&theme=tokyonight)
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyennhuduc-dev&show_icons=true&theme=tokyonight)
 
 ⭐ Thanks for visiting my profile.
