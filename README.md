@@ -37,19 +37,13 @@ Become a Software Developer and Game Developer.
 
 ---
 
-## 💻 Languages and Tools
+## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,bootstrap,git,github,vscode,mysql"/>
-</p>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyennhuduc-dev&show_icons=true&theme=tokyonight)
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nguyennhuduc-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyennhuduc-dev&show_icons=true&theme=tokyonight)
 
----
 ⭐ Thanks for visiting my profile.
