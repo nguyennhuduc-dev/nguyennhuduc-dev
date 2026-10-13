@@ -26,7 +26,7 @@ const slidesData = [
   },
   {
     text: "Anh yêu em nhiều hơn mỗi ngày. Chúc em luôn bình an, vui vẻ và mãi là cô gái đáng yêu nhất trong tim anh.",
-    gif: "https://i.pinimg.com/originals/56/80/90/5680904ede4b1f59b1664e880afebfc4f.gif",
+    gif: "https://i.pinimg.com/originals/fd/60/15/fd6015dd3f31d0223374f993f66e85d3.gif",
   },
 ];
 
