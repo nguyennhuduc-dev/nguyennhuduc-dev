@@ -118,25 +118,17 @@ function program(delay = 200) {
 const hackerLetters = "01!@#$%^&*()_+-=[]{}|;:,.<>?/";
 
 function hackerEffect(element, finalText, iterations = 3, onComplete) {
-  let iteration = 0;
-  currentHackerInterval = setInterval(() => {
-    element.textContent = finalText
-      .split("")
-      .map((char, index) => {
-        if (index < iteration || char === " ") {
-          return finalText[index];
-        }
-        return hackerLetters[Math.floor(Math.random() * hackerLetters.length)];
-      })
-      .join("");
-    if (iteration >= finalText.length) {
-      clearInterval(currentHackerInterval);
-      currentHackerInterval = null;
-      element.classList.add("complete");
-      if (onComplete) onComplete();
+    if (currentHackerInterval) {
+        clearInterval(currentHackerInterval);
+        currentHackerInterval = null;
     }
-    iteration += 1 / iterations;
-  }, 30);
+
+    element.textContent = finalText;
+    element.classList.add("complete");
+
+    if (typeof onComplete === "function") {
+        onComplete();
+    }
 }
 
 function startFallingEffect() {
