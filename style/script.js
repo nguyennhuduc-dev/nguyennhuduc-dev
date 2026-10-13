@@ -115,8 +115,6 @@ function program(delay = 200) {
   })();
 }
 
-const hackerLetters = "01!@#$%^&*()_+-=[]{}|;:,.<>?/";
-
 function hackerEffect(element, finalText, iterations = 3, onComplete) {
     if (currentHackerInterval) {
         clearInterval(currentHackerInterval);
